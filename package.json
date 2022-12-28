@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "homepage":"https://iivertex.github.io/xbox"
+  "homepage": "https://iivertex.github.io/xbox",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^4.0.0"
